@@ -98,7 +98,7 @@ Habrá un proyecto de curso el cual puede ser grupal (hasta 3 personas), y puede
   - Fecha: 2da semana de exámenes 
   - Formato: Presentación de proyectos en forma presencial o remota 
 
-**Nota de Presentación :** La nota de la presentación NP se basará en una rúbrica (a publicar) evaluada por el profesor de cátedra y el profesor auxiliar.
+**Nota de Proyecto :** La nota de la proyecto NP se basará en una rúbrica (a publicar) evaluada por el profesor de cátedra y el profesor auxiliar.
 
 **Cálculo de nota NC:** La nota de control NC, se calculará como el promedio entre C1, NP y el Examen. La nota de tareas NT se calcula como el promedio de las notas T1,T2,T3 (y T4, si es que hay T4).  
   
