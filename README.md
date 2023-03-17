@@ -139,14 +139,15 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 1      | 1      | Introducción         | Motivación        |  KL cap 1.1, 1.2, BR. Cap. 1 |  
 1      | 2      | Cifradores clásicos  | Cifradores históricos, ataques | KL cap 1.3, , BR Cap. 2|   
 2      | 3      | Confidencialidad Perfecta  | Definición, One-Time Pad, Resultados   | KL Cap. 2,  , PT. Cap. 5 y mini-guía|  
-2      | 3,4    |                      | (parte II), Limitaciones  | KL, Teo. 2.10 y Cap. 2.4 |
-2      | 4      | Encriptación Simétrica | Cifradores de Bloque          | KL Cap. 6.2, BR Cap 3.1-3.3 | 
-3      | x      | (Suspendida)           |                               |                     |
-3      | 5      | Encriptación Simétrica | DES, AES, Key Recovery Attacks| BR Cap 3, KL Cap. 6.2.3-6.2.5, Opcional 6.2.6; V Cap. 2.1 y 2.7, Smart Cap. 13.2,13.3  | 
-4      | 6      | Funciones Pseudo-Aleatorias |  Definición, Ejemplos, Significado | BR Cap 4.1-4.3 | 
+2      | 4    |                      | Limitaciones | KL, Teo. 2.10 y Cap. 2.4 |
+2      | 5      | Encriptación Simétrica | Cifradores de Bloque          | KL Cap. 6.2, BR Cap 3.1-3.3 | 
+3      | 6      | Encriptación Simétrica | DES, AES, Key Recovery Attacks| BR Cap 3, KL Cap. 6.2.3-6.2.5, Opcional 6.2.6; V Cap. 2.1 y 2.7, Smart Cap. 13.2,13.3  | 
+4      | 7      | Funciones Pseudo-Aleatorias |  Definición, Ejemplos, Significado | BR Cap 4.1-4.3 | 
+{::comment}  
+4      | 8      | Funciones Pseudo-Aleatorias |   |  |
 11     | 19     | Criptografía Asimétrica | Encriptación Asimétrica (o de clave pública), conceptos, DHIES, Seguridad (IND-CPA), Introducción a RSA |  | 
 11     | 20     |                      | Continuación RSA, Seguridad RSA, Variantes (SRSA) |  | 
-
+{:/comment}
 
 ## Bibliografia
 - **[KL]** J. Katz, Y. Lindell, **[Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html)**, 
