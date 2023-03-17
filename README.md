@@ -9,7 +9,7 @@ Aprender conceptos, técnicas y resultados del fascinante mundo de la Criptograf
 - Cátedras: Lunes y Miércoles 10:15am-11:30am
 - **Horario Consultas profesor (via Discord o en persona): Martes 3:00pm-4:00pm.** 
 - Clases auxiliares: Viernes 10:15am-11:45am 
-	- Auxiliares: Bryan Ortíz
+	- Auxiliares: Bryan Ortiz
 	- Ayudantes:  Valeria León y Vanessa Gaete
 - Sitio web oficial del curso: este y [ucursos](https://www.u-cursos.cl/ingenieria/2023/1/CC5301/1/)
 - [Programa del curso](https://www.u-cursos.cl/ingenieria/2023/1/CC5301/1/datos_curso/bajar_programa?id=5225&1227114904)
