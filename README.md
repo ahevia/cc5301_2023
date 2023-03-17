@@ -132,7 +132,7 @@ Existe un servidor de [Discord](https://discord.gg/F6CqNUTm) para el curso (si e
 
 ## Calendario
 
-__(Actualizado 2021-03-17)__
+__(Actualizado 2023-03-17)__
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
 :----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
