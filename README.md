@@ -110,7 +110,7 @@ Habrá un proyecto de curso el cual puede ser grupal (hasta 3 personas), y puede
 
 Las evaluaciones tendrán una fecha y horario de entrega (típicamente 23:59hrs) pero se aceptarán atrasos de hasta 5 días siguiendo las siguientes reglas:
 
-- Cada estudiante tendrá hasta un máximo de 8 días de atraso que puede usar libremente en las tareas (T1, T2, T3 y T4),
+- Cada estudiante tendrá hasta un máximo de 5 días de atraso que puede usar libremente en las tareas (T1, T2, T3 y T4),
 - No puede usar más de 3 días para cualquier tarea individual (para no atrasar las notas),
 - Días de fin de semana y semanas de receso no cuentan en los días de atraso, y
 - Una vez que el estudiante haya utilizado la totalidad de sus días de atraso, cualquier entrega que haga posterior a la fecha de entrega será calificada con nota 1.0. 
