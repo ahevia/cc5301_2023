@@ -134,7 +134,7 @@ Existe un servidor de [Discord](https://discord.gg/F6CqNUTm) para el curso (si e
 
 __(Actualizado 2023-03-17)__
 
-IMPORTANTE: ** Intercambio clase cátedra con la auxiliar **: 
+**IMPORTANTE: Intercambio clase cátedra con la auxiliar**: 
 Los siguientes días, las cátedras se moverán de los miércoles a los viernes.
 Las salas no sufrirán cambio, esto es, independientemente si hay cátedra o auxiliar, se mantiene la sala asociada a cada horario.
 
