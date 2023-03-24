@@ -48,7 +48,7 @@ El curso está fuertemente basado en trabajo personal (mal que mal, es un curso 
 ## Evaluaciones
 
 El curso será completamente evaluado con
-- 1 examen
+- 1 control y 1 examen
 - 3 o 4 tareas obligatorias (el número exacto depende del tiempo disponible), y
 - 1 proyecto del curso.
 
@@ -68,9 +68,9 @@ Habrá un proyecto de curso el cual puede ser grupal (hasta 3 personas), y puede
 
 * **Tarea 1 (T1)**: 
 
-  - Fecha publicación: 24 de Marzo 2021
-  - Fecha de entrega: TBA
-  - Contenidos: Confidencialidad perfecta.
+  - Fecha publicación: 5 de Abril 2023
+  - Fecha de entrega: 18 de Abril 2023, 23:59hrs.
+  - Contenidos: Confidencialidad perfecta, cifradores de bloque, ataques de recuperación de claves.
 
 * **Tarea 2 (T2)**: 
 
@@ -133,6 +133,19 @@ Existe un servidor de [Discord](https://discord.gg/F6CqNUTm) para el curso (si e
 ## Calendario
 
 __(Actualizado 2023-03-17)__
+
+IMPORTANTE: ** Intercambio clase cátedra con la auxiliar **: 
+Los siguientes días, las cátedras se moverán de los miércoles a los viernes.
+Las salas no sufrirán cambio, esto es, independientemente si hay cátedra o auxiliar, se mantiene la sala asociada a cada horario.
+
+- Miércoles 29 de Marzo: Se hará auxiliar en horario de cátedra.
+- Viernes 31 de Marzo: Se hará cátedra en horario de auxiliar.
+- Miércoles 26 de Abril: Se hará auxiliar en horario de cátedra.
+- Viernes 28 de Abril: Se hará cátedra en horario de auxiliar.
+- Miércoles 31 de Mayo: Se hará auxiliar en horario de cátedra.
+- Viernes 2 de Junio: Se hará cátedra en horario de auxiliar.
+- Miércoles 28 de Junio: Se hará auxiliar en horario de cátedra.
+- Viernes 30 de Junio: Se hará cátedra en horario de auxiliar.
 
 Semana | Clase  | Tema                 | Contenidos        | Lecturas                       | Comentarios    
 :----  | :----: | :--------------:     | :--------------   | :--------------                |  :---------
