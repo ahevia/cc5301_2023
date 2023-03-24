@@ -91,7 +91,7 @@ Habrá un proyecto de curso el cual puede ser grupal (hasta 3 personas), y puede
   - Contenidos: Firmas Digitales, Commitments, protocolos criptográficos, (algoritmos post-quánticos?)
 
 * **Control 1 (C1)**:
-  - Fecha: TBA 
+  - Fecha: Viernes 28 de Abril 2023 
   - Contenidos: Lo visto hasta la semana inmediatamente anterior.
 
 * **Presentación Proyecto**:
@@ -180,3 +180,4 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 ## Log de Cambios
 
 - 2023-03-17: Reglas del curso publicadas
+- Ver log de cambios en github.
