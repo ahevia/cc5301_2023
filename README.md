@@ -161,6 +161,9 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 5      | 10      | PRF fin, Encriptación Simétrica| PRF: Ataque de los cumpleaños; Modos de Encriptación ECB,CBC$,CTR$   | BR Cap 4.8, Cap 5.1-5.3 | 
 6      | 11      |Encriptación Simétrica |  Noción IND-CPA | BR Cap 5.4-5.7 | 
 6      | 12      | |  IND-CCA | BR Cap 5.9 | 
+7      | 13      | Funciones de Hash | Definición, Resistencia a colisiones | BR Cap 6.1-6.3 | 
+7      | 14      | |  Merke-Damgard, Ataques | BR Cap 6.5 | 
+7      | C1      | Control 1| (horario auxiliar) |  | 
 <!-- 
 11     | 19     | Criptografía Asimétrica | Encriptación Asimétrica (o de clave pública), conceptos, DHIES, Seguridad (IND-CPA), Introducción a RSA |  | 
 11     | 20     |                      | Continuación RSA, Seguridad RSA, Variantes (SRSA) |  | 
