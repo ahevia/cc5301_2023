@@ -132,7 +132,7 @@ Existe un servidor de [Discord](https://discord.gg/F6CqNUTm) para el curso (si e
 
 ## Calendario
 
-__(Actualizado 2023-03-17)__
+__(Actualizado 2023-04-17)__
 
 **IMPORTANTE: Intercambio clase cátedra con la auxiliar**: 
 Los siguientes días, las cátedras se moverán de los miércoles a los viernes.
@@ -169,7 +169,7 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 11     | 20     |                      | Continuación RSA, Seguridad RSA, Variantes (SRSA) |  | 
 -->
 
-## Bibliografia
+## Bibliografía
 - **[KL]** J. Katz, Y. Lindell, **[Introduction to Modern Cryptography](http://www.cs.umd.edu/~jkatz/imc.html)**, 
 	Second Edition, Chapman & Hall/CRC Press, 2007. 
 	(En biblioteca y ucursos.). Ver la [errata](http://www.cs.umd.edu/~jkatz/imc/errata.pdf) y la sec. 4.6.3 [revisada](http://www.cs.umd.edu/~jkatz/imc/hash-erratum.pdf). 
