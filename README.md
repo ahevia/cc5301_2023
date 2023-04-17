@@ -153,8 +153,8 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 1      | 2      | Cifradores clásicos  | Cifradores históricos, ataques | KL cap 1.3, , BR Cap. 2|   
 2      | 3      | Confidencialidad Perfecta  | Definición, One-Time Pad, Resultados   | KL Cap. 2,  , PT. Cap. 5 y mini-guía|  
 2      | 4    |                      | Limitaciones | KL, Teo. 2.10 y Cap. 2.4 |
-3      | 5      | Encriptación Simétrica | Cifradores de Bloque, DES     | KL Cap. 6.2, BR Cap 3.1-3.3 | 
-3      | 6      | Encriptación Simétrica | Key Recovery Attacks, Variantes DES, AES | BR Cap 3, KL Cap. 6.2.3-6.2.5, Opcional 6.2.6; V Cap. 2.1 y 2.7, Smart Cap. 13.2,13.3  | 
+3      | 5      | Hacia Encriptación Simétrica | Cifradores de Bloque, DES     | KL Cap. 6.2, BR Cap 3.1-3.3 | 
+3      | 6      |  | Key Recovery Attacks, Variantes DES, AES | BR Cap 3, KL Cap. 6.2.3-6.2.5, Opcional 6.2.6; V Cap. 2.1 y 2.7, Smart Cap. 13.2,13.3  | 
 4      | 7      | Funciones Pseudo-Aleatorias |  Definición, Motivación | BR Cap 4.1-4.3 | 
 4      | 8      |  | Noción PRF, Ejemplos  | BR Cap 4.1-4.3 |
 5      | 9      |  |  Seguridad PRF implica Seguridad KR  | BR Cap 4.7 | 
