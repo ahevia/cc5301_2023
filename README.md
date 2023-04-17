@@ -142,6 +142,8 @@ Las salas no sufrirán cambio, esto es, independientemente si hay cátedra o aux
 - Viernes 31 de Marzo: Se hará cátedra en horario de auxiliar.
 - Miércoles 26 de Abril: Se hará auxiliar en horario de cátedra.
 - Viernes 28 de Abril: Se hará cátedra en horario de auxiliar.
+- **NUEVO: Lunes 15 de Mayo: Se hará auxiliar en horario de cátedra.**
+- **NUEVO: Viernes 19 de Mayo: Se hará cátedra en horario de auxiliar.**
 - Miércoles 31 de Mayo: Se hará auxiliar en horario de cátedra.
 - Viernes 2 de Junio: Se hará cátedra en horario de auxiliar.
 - Miércoles 28 de Junio: Se hará auxiliar en horario de cátedra.
@@ -160,7 +162,7 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 5      | 9      |  |  Seguridad PRF implica Seguridad KR  | BR Cap 4.7 | 
 5      | 10      | PRF fin, Encriptación Simétrica| PRF: Ataque de los cumpleaños; Modos de Encriptación ECB,CBC$,CTR$   | BR Cap 4.8, Cap 5.1-5.3 | 
 6      | 11      |Encriptación Simétrica |  Noción IND-CPA | BR Cap 5.4-5.7 | 
-6      | 12      | |  IND-CCA | BR Cap 5.9 | 
+6      | 12      | | CTRC/CTR$, CBC$/CBCC, IND-CCA (opcional) | BR Cap 5.4-5.7, Cap 5.9 | 
 7      | 13      | Funciones de Hash | Definición, Resistencia a colisiones | BR Cap 6.1-6.3 | 
 7      | 14      | |  Merke-Damgard, Ataques | BR Cap 6.5 | 
 7      | C1      | Control 1| (horario auxiliar) |  | 
