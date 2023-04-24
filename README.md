@@ -74,15 +74,15 @@ Habrá un proyecto de curso el cual puede ser grupal (hasta 3 personas), y puede
 
 * **Tarea 2 (T2)**: 
 
-  - Fecha publicación: 19 de Abril 2023
-  - Fecha de entrega: 10 de Mayo 2023
-  - Contenidos: Encriptación Simétrica, Funciones de Hash.
+  - Fecha publicación: 24 de Abril 2023
+  - Fecha de entrega: 16 de Mayo 2023
+  - Contenidos: Encriptación Simétrica.
 
 * **Tarea 3 (T3)**: 
   
   - Fecha publicación: TBA
   - Fecha de entrega: TBA
-  - Contenidos: MACs, Teoría de Números computacional, Encriptación Asimétrica y RSA.
+  - Contenidos: Hashing, MACs, Teoría de Números computacional, Encriptación Asimétrica y RSA.
 
 * **Tarea 4 (T4)**: 
   
@@ -162,10 +162,16 @@ Semana | Clase  | Tema                 | Contenidos        | Lecturas         
 5      | 9      |  |  Seguridad PRF implica Seguridad KR  | BR Cap 4.7 | 
 5      | 10      | PRF fin, Encriptación Simétrica| PRF: Ataque de los cumpleaños; Modos de Encriptación ECB,CBC$,CTR$   | BR Cap 4.8, Cap 5.1-5.3 | 
 6      | 11      |Encriptación Simétrica |  Noción IND-CPA | BR Cap 5.4-5.7 | 
-6      | 12      | | CTRC/CTR$, CBC$/CBCC, IND-CCA (opcional) | BR Cap 5.4-5.7, Cap 5.9 | 
-7      | 13      | Funciones de Hash | Definición, Resistencia a colisiones | BR Cap 6.1-6.3 | 
-7      | 14      | |  Merke-Damgard, Ataques | BR Cap 6.5 | 
+6      | 12      | | CTRC/CTR$, CBC$/CBCC | BR Cap 5.4-5.7, Cap 5.9 | 
+7      | 13      | IND-CCA | BR Cap 6.1-6.3 | 
+7      |       | Clase auxiliar |  | 
 7      | C1      | Control 1| (horario auxiliar) |  | 
+8      | 14      | Funciones de Hash | Definición, Resistencia a colisiones | BR Cap 6.1-6.3 | 
+8      | 15      | |  Merke-Damgard, Ataques, Uso en Criptomonedas | BR Cap 6.5 | 
+9      | 16      | Autentificación de Mensajes | Concepto, Definición (UF-CMA), construcciones | BR Cap. 7.1-7.5  | 
+9      | 17      | Construcciones de MACs |  | BR Cap. 7.7 | 
+10      | 18      | Encriptación Autenticada | Concepto, Definición, construcciones | KL Cap. 4.5 | 
+10      | 19      | Introducción a Teoría de Números Computacional |   | BR Cap. 9 | 
 <!-- 
 11     | 19     | Criptografía Asimétrica | Encriptación Asimétrica (o de clave pública), conceptos, DHIES, Seguridad (IND-CPA), Introducción a RSA |  | 
 11     | 20     |                      | Continuación RSA, Seguridad RSA, Variantes (SRSA) |  | 
