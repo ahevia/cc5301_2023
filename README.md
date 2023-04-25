@@ -74,9 +74,9 @@ Habrá un proyecto de curso el cual puede ser grupal (hasta 3 personas), y puede
 
 * **Tarea 2 (T2)**: 
 
-  - Fecha publicación: 24 de Abril 2023
+  - Fecha publicación: 25 de Abril 2023
   - Fecha de entrega: 16 de Mayo 2023
-  - Contenidos: Encriptación Simétrica.
+  - Contenidos: Encriptación Simétrica, y pseudoaleatoriedad.
 
 * **Tarea 3 (T3)**: 
   
