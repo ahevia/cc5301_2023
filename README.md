@@ -79,16 +79,16 @@ Habrá un proyecto de curso el cual puede ser grupal (hasta 3 personas), y puede
   - Contenidos: Encriptación Simétrica, y pseudoaleatoriedad.
 
 * **Tarea 3 (T3)**: 
-  
-  - Fecha publicación: TBA
-  - Fecha de entrega: TBA
-  - Contenidos: Hashing, MACs, Teoría de Números computacional, Encriptación Asimétrica y RSA.
+  1
+  - Fecha publicación: 30 de Mayo 2023
+  - Fecha de entrega: 13 de Junio 2023
+  - Contenidos: Hashing, MACs, Teoría de Números computacional.
 
 * **Tarea 4 (T4)**: 
   
-  - Fecha publicación: TBA
-  - Fecha de entrega: TBA
-  - Contenidos: Firmas Digitales, Commitments, protocolos criptográficos, (algoritmos post-quánticos?)
+  - Fecha publicación: N/A
+  - Fecha de entrega: N/A
+  - Contenidos: Encriptación asimétrica, Firmas Digitales, otros (Commitments, protocolos criptográficos, algoritmos post-quánticos?)
 
 * **Control 1 (C1)**:
   - Fecha: Viernes 28 de Abril 2023 
@@ -100,7 +100,7 @@ Habrá un proyecto de curso el cual puede ser grupal (hasta 3 personas), y puede
 
 **Nota de Proyecto :** La nota de la proyecto NP se basará en una rúbrica (a publicar) evaluada por el profesor de cátedra y el profesor auxiliar.
 
-**Cálculo de nota NC:** La nota de control NC, se calculará como el promedio entre C1, NP y el Examen. La nota de tareas NT se calcula como el promedio de las notas T1,T2,T3 (y T4, si es que hay T4).  
+**Cálculo de nota NC:** La nota de control NC, se calculará como el promedio entre C1, NP y el Examen. La nota de tareas NT se calcula como el promedio de las notas T1,T2,T3 y T4, donde T4=NP.   
   
 **Examen y eximición:** Como el control 1 no cubre toda la materia del curso, no habrá eximición.
 
